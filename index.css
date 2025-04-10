@@ -1,6 +1,6 @@
 @charset "UTF-8";
 body {
-    background-image: linear-gradient(to top, rgb(65, 63, 63), rgb(195, 195, 233))
+    background-image: linear-gradient(to top, rgb(228, 227, 227),#eceef0)
    
 }
 :root {
@@ -14,7 +14,7 @@ body {
 
 
 header {
- background-image: linear-gradient(to top, rgb(65, 63, 63), rgb(14, 14, 219));
+ background-image: linear-gradient(to top,#9EBAE5, #5290E5);
     font-family:'Bebas Neue', cursive;
    text-align: center;
    min-height: 150px;
